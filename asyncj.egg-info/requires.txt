@@ -1,0 +1,2 @@
+aiofiles>=23.2.1
+ujson>=5.9.0
