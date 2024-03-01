@@ -13,7 +13,7 @@ setup(
   long_description_content_type='text/markdown',
   url='https://github.com/VengDevs/AsyncJ',
   packages=find_packages(),
-  install_requires=['aiofiles>=23.2.1', 'ujson>=5.9.0'],
+  install_requires=['aiofiles', 'ujson'],
   classifiers=[
     'Programming Language :: Python :: 3.8',
     'License :: OSI Approved :: MIT License',
