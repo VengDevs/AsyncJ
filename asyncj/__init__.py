@@ -4,7 +4,7 @@
 :copyright: (c) 2024 VengDevs
 """
 
-from .asyncj import AsyncJson
+from .asyncj import AsyncJson, SyncJson
 
 
 __version__ = '1.0.7'

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: asyncj
-Version: 1.1.0
+Version: 1.1.1
 Summary: Python module for fast asynchronous work with JSON files
 Home-page: https://github.com/VengDevs/AsyncJ
 Author: VengDevs
@@ -12,8 +12,8 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: aiofiles>=23.2.1
-Requires-Dist: ujson>=5.9.0
+Requires-Dist: aiofiles
+Requires-Dist: ujson
 
 # AsyncJ
 **AsyncJ - Python module for fast asynchronous work with JSON files**
