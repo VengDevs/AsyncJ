@@ -4,6 +4,7 @@ setup.cfg
 setup.py
 asyncj/__init__.py
 asyncj/asyncj.py
+asyncj/syncj.py
 asyncj.egg-info/PKG-INFO
 asyncj.egg-info/SOURCES.txt
 asyncj.egg-info/dependency_links.txt
