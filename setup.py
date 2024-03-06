@@ -6,7 +6,7 @@ def readme():
 
 setup(
   name='asyncj',
-  version='1.1.2',
+  version='1.1.4',
   author='VengDevs',
   description='Python module for fast asynchronous work with JSON files',
   long_description=readme(),
